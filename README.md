@@ -60,7 +60,7 @@ The dataset contains supply chain information such as:
 
 ## Dashboard Preview
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](images/dashboard_overview.jpg)
 
 ## Key Insights
 
